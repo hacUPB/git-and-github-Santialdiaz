@@ -12,3 +12,4 @@ Para tener en cuenta, un repositorio segun lo visto en clase es una carpeta en e
 - git-init para crear el repositorio 
 - git status: para ver el estado del repositorio 
 - git branch -m main: para cambiar de master a main
+Estos fueron algunos de los comandos vistos en las primeras sesiones.
