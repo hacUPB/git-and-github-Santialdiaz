@@ -1,8 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
+# 1. Descripción breve del repositorio.
+Este repositorio contiene información relevante e introductoria al manejo de git, gitbash y github; mediante el cual se explican algunos comandos para la creación de carpetas o directorios, de documentos y archivos y de repositorios tanto locales como remotos y la sincronización de ambos, trabajando desde local.
+# 2. Pasos necesarios para clonar y ejecutar el proyecto:
+git clone: Para extraer archivos manteniendo sesión activa y conectada
+git pull: traer cambios al local
+git push: enviar cambios
+recordar crear commits antes de enviar.
+# Tabla de contenido con enlaces:
+[Link al Documento](./docs/uso_consola.md) Uso de la consola
+[Link al Documento](./docs/repositorio_local.md) Repositorio Local
+[Link al Documento](./docs/repositorio_remoto.md) Repositorio Remoto
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Santiago Alexander Díaz Sánchez
+Id.:  000575228
 ---
 # Evaluación
 
