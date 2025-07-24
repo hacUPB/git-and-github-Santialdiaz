@@ -8,3 +8,4 @@
 - git push -u origin main: se hace solo una vez para enviar lo del local al remoto
 - git push: enviar y sincronizar
 - git config--list: para ver el listado de info personal
+Estos son algunos comandos dados por el docente en la segunda sesión.
